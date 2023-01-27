@@ -1,4 +1,4 @@
-﻿=== WP-HR Manager: The Human Resources Plugin for WordPress ===
+﻿=== WP-HR Manager: The Human Resources ===
 Plugin Name: WP-HR Manager
 Plugin URI: http://www.wphrmanager.com/
 Contributors: wphrmanager, blackandwhitedigital, freemius, prismitsystems, Jose Gallo
